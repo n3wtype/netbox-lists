@@ -136,6 +136,8 @@ OTHER_PARAMS = {
     SUMMARIZE_PARAM_NAME,
     # for BrowsableAPIRenderer
     "format",
+    "filter",
+    "filter_id",
 }
 
 LISTS_RESPONSES = {
